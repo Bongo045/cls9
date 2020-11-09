@@ -1,0 +1,175 @@
+/* !..........Nav section start.......... */
+nav {
+    background: #223047;
+}
+
+.nav-btn button {
+    background: #00fff0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.col-md-6 ul li i {
+    font-size: 7px;
+}
+/* !..........Nav section end.......... */
+
+.home-span {
+    background: rgb(255, 255, 255);
+    height: 1px;
+    display: block;
+}
+
+/* !..........Home section start.......... */
+.home {
+    background: #223047;
+    position: relative;
+}
+
+.col-md-6 .btn-1{
+    background: #00fff0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.col-md-6 .btn-2{
+    background: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.col-md-5 img {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* !..........Home section end.......... */
+
+/* !..........Icon section start.......... */
+.icon-span {
+    background: #00fff0;
+    height: 2px;
+    display: block;
+    width: 30%;
+}
+/* !..........Icon section end.......... */
+
+/* !..........Get section start.......... */
+.container-fluid {
+    background-image: linear-gradient(to right, #323a4d 50%, #f5f6fa 50%);
+}
+/* !..........Get section end.......... */
+
+/* !..........Stable section start.......... */
+.stable {
+    position: relative;
+}
+
+.stable-mbl-img {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+}
+
+.card {
+    transition: 0.3s ease;
+    cursor: pointer;
+    border: 2px #00000026 solid;
+    box-shadow: 2px 3px 9px #00000031;
+}
+
+.card:hover {
+    background: #00fff0;
+}
+/* !..........Stable section end.......... */
+
+/* !..........Everything section start.......... */
+.everything {
+    background: #f5f6fa;
+    position: relative;
+}
+
+.everything-icon i {
+    background: #00fff0;
+    border-radius: 50%;
+}
+
+.white-box {
+    height: 300px;
+    width: 500px;
+    background: white;
+    position: absolute;
+    top: 78%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.black-box {
+    height: 500px;
+    width: 300px;
+    background: black;
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/* !..........Everything section start.......... */
+
+/* !..........Watch section start.......... */
+.watch {
+    background: #223047;
+}
+
+.watch-icon i {
+    color: #00fff0;
+}
+/* !..........Watch section end.......... */
+
+/* !..........Text section start.......... */
+.text {
+    background: #223047;
+}
+/* !..........Text section end.......... */
+
+/* !..........Now section start.......... */
+.now {
+    background: #f5f6fa;
+    position: relative;
+}
+
+.now-btn {
+    background: #00fff0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    position: absolute;
+    top: 190%;
+    left: 0%;
+    transform: translate(-50%, -50%);
+}
+/* !..........Now section end.......... */
+
+/* !..........End section start.......... */
+.end-btn {
+    background: #00fff0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* !..........End section start.......... */
+
+/* !..........Footer section start.......... */
+footer {
+    background: #223047;
+}
+
+footer p {
+    color: #167b84;
+}
+/* !..........Footer section end.......... */
